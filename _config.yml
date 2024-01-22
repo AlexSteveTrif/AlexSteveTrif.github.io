@@ -1,6 +1,13 @@
 title: Alexander Trif
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+## About Me
+
+Hello! I'm a dedicated Data Analyst in training, with a rich academic background originally rooted in the sciences. My journey began in the realm of Chemistry, where I not only honed my analytical skills but also developed a keen eye for detail and precision. With a minor in Mathematics and Statistics, my enthusiasm for the numerical and theoretical soon guided me towards the intricate world of data analytics.
+<br> <br>
+As I transitioned from a Science major to a Data Analyst, I carried with me the scientific rigor and quantitative acumen that form the backbone of effective data analysis. My passion for mathematics and statistics is now channeled into deciphering data patterns and translating them into actionable insights, particularly in the healthcare sector where data's impact is life-changing.
+<br><br>
+<a href="https://www.linkedin.com/in/alex-trif-972450185/">View my LinkIn Profile</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
