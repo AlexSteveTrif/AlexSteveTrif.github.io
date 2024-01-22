@@ -2,6 +2,39 @@
 layout: default
 ---
 
+
+# Welcome to My Data Analytics Portfolio
+
+## About Me
+
+Hello! I'm a dedicated Data Analyst in training, with a rich academic background originally rooted in the sciences. My journey began in the realm of Chemistry, where I not only honed my analytical skills but also developed a keen eye for detail and precision. With a minor in Mathematics and Statistics, my enthusiasm for the numerical and theoretical soon guided me towards the intricate world of data analytics.
+
+As I transitioned from a Science major to a Data Analyst, I carried with me the scientific rigor and quantitative acumen that form the backbone of effective data analysis. My passion for mathematics and statistics is now channeled into deciphering data patterns and translating them into actionable insights, particularly in the healthcare sector where data's impact is life-changing.
+
+## My Work
+
+My portfolio is a reflection of my evolution from a science enthusiast to a data analytics professional. Here, you will find projects that span from financial modeling as a Junior Analyst with the Okanagan College Student Investment Fund to sophisticated healthcare analytics endeavors. These projects underscore my proficiency with analytical tools like R and Python and my ability to communicate complex findings with clarity.
+
+## My Vision for Healthcare Analytics
+
+In the healthcare sector, every data point represents a human element—a patient's health trajectory, the efficiency of medical procedures, or the efficacy of healthcare policies. My vision is to leverage my background in science and my expertise in data analytics to:
+
+- **Predictive Analytics**: Craft predictive models that can foresee health trends, optimize preventive care, and anticipate the need for medical interventions.
+- **Operational Efficiency**: Dive deep into operational data to identify bottlenecks, streamline healthcare delivery, and enhance patient care, all while managing costs.
+- **Personalized Medicine**: Utilize data to customize treatments, aligning with the cutting-edge advancements in personalized medicine driven by patient-specific data.
+
+## Connect With Me
+
+The intersection of data analytics and healthcare is where I find my calling, and I am keen on collaborating with professionals who share a similar dedication to this transformative field. If my work resonates with you, or if you're interested in exploring potential collaborations, please reach out. Together, we can harness the power of data to pave the way for innovations in healthcare.
+
+Thank you for visiting my page. I am excited about the opportunities ahead and the potential to contribute significantly to healthcare through the lens of data analytics.
+
+\
+\
+\
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
