@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-
-
 # Welcome to My Data Analytics Portfolio
+
+## About Me
+
+Hello! I'm a dedicated Data Analyst in training, with a rich academic background originally rooted in the sciences. My journey began in the realm of Chemistry, where I not only honed my analytical skills but also developed a keen eye for detail and precision. With a minor in Mathematics and Statistics, my enthusiasm for the numerical and theoretical soon guided me towards the intricate world of data analytics.
+
+As I transitioned from a Science major to a Data Analyst, I carried with me the scientific rigor and quantitative acumen that form the backbone of effective data analysis. My passion for mathematics and statistics is now channeled into deciphering data patterns and translating them into actionable insights, particularly in the healthcare sector where data's impact is life-changing.
 
 ## My Work
 
@@ -23,7 +27,8 @@ The intersection of data analytics and healthcare is where I find my calling, an
 
 Thank you for visiting my page. I am excited about the opportunities ahead and the potential to contribute significantly to healthcare through the lens of data analytics.
 
-\
+
+
 \
 \
 
