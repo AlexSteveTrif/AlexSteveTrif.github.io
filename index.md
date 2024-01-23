@@ -21,8 +21,7 @@ The intersection of data analytics and healthcare is where I find my calling, an
 
 Thank you for visiting my page. I am excited about the opportunities ahead and the potential to contribute significantly to healthcare through the lens of data analytics.
 
-\
-\
+
 
 [Enhancing the Okanagan College Student Investment Fund](./another-page.html).
 <img src="/assets/img/Rplot.png"/>
