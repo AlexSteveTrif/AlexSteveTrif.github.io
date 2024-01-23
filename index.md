@@ -29,7 +29,9 @@ Thank you for visiting my page. I am excited about the opportunities ahead and t
 
 
 
-[Project 2 Title](./third-page.html).
+[Bulding Machine Learning Algorithms for Predicting COVID-19](./assets/img/DSCI_401_Presentation.pdf).
+<img src="/assets/img/covid-proj.png?raw=true"/>
+
 
 There should be whitespace between paragraphs.
 
