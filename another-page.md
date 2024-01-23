@@ -24,3 +24,4 @@ The project was pivotal in guiding the fund's investment decisions through turbu
 
 This experience was more than just a project; it was a profound learning journey that solidified my resolve to pursue a career in data analytics within the healthcare sector. The project underscored the importance of data in making strategic decisions, a principle I am excited to apply in healthcare analytics to improve patient outcomes and drive innovation in medical services.
 
+[View My Report Here](./assets/img/Portfolio-Risk-Assessment.pdf)
