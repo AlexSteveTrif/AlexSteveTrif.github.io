@@ -25,12 +25,12 @@ Thank you for visiting my page. I am excited about the opportunities ahead and t
 \
 
 [Enhancing the Okanagan College Student Investment Fund](./another-page.html).
-<img src="/assets/img/Rplot.png?raw=true"/>
+<img src="/assets/img/Rplot.png"/>
 
 
 
 [Bulding Machine Learning Algorithms for Predicting COVID-19](./assets/img/DSCI_401_Presentation.pdf).
-<img src="/assets/img/covid-proj.png?raw=true"/>
+<img src="/assets/img/covid-proj.png"/>
 
 
 There should be whitespace between paragraphs.
