@@ -24,7 +24,7 @@ Thank you for visiting my page. I am excited about the opportunities ahead and t
 \
 \
 
-
+[Project 1 Title](./another-page.html).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
