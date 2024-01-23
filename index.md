@@ -25,6 +25,7 @@ Thank you for visiting my page. I am excited about the opportunities ahead and t
 \
 
 [Enhancing the Okanagan College Student Investment Fund](./another-page.html).
+<img src="/assets/img/Rplot.png?raw=true"/>
 
 
 
