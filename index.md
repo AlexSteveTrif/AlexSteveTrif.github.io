@@ -1,35 +1,94 @@
 ---
 layout: default
 ---
+
 # Welcome to My Data Analytics Portfolio
 
-## My Work
+## About Me
 
-My portfolio is a reflection of my evolution from a science enthusiast to a data analytics professional. Here, you will find projects that span from financial modeling as a Junior Analyst with the Okanagan College Student Investment Fund to sophisticated healthcare analytics endeavors. These projects underscore my proficiency with analytical tools like R and Python and my ability to communicate complex findings with clarity.
+I'm a data science student with a background in chemistry and a strong foundation in mathematics and statistics. Currently specializing in healthcare analytics, I'm passionate about leveraging data to make informed decisions in the healthcare sector. My journey from a science enthusiast to a data analytics professional has equipped me with a unique blend of skills and knowledge.
 
-## My Vision for Healthcare Analytics
+### Career Goals
 
-In the healthcare sector, every data point represents a human element—a patient's health trajectory, the efficiency of medical procedures, or the efficacy of healthcare policies. My vision is to leverage my background in science and my expertise in data analytics to:
+My primary goal is to secure a Junior Data Analyst position or internship where I can apply my analytical skills and contribute to data-driven decision-making. I'm open to opportunities in both the healthcare and business sectors, aiming to make a meaningful impact through data.
 
-- **Predictive Analytics**: Craft predictive models that can foresee health trends, optimize preventive care, and anticipate the need for medical interventions.
-- **Operational Efficiency**: Dive deep into operational data to identify bottlenecks, streamline healthcare delivery, and enhance patient care, all while managing costs.
-- **Personalized Medicine**: Utilize data to customize treatments, aligning with the cutting-edge advancements in personalized medicine driven by patient-specific data.
+## Vision for Healthcare Analytics
+
+In the healthcare sector, data is more than just numbers; it represents the well-being of individuals and communities. My vision for healthcare analytics includes:
+
+- **Predictive Analytics**: Crafting predictive models to foresee health trends, optimize preventive care, and anticipate medical interventions.
+- **Operational Efficiency**: Delving into operational data to streamline healthcare delivery, enhance patient care, and manage costs.
+- **Personalized Medicine**: Utilizing data to customize treatments and align with the advancements in personalized medicine driven by patient-specific data.
+
+## Skills and Expertise
+
+I have a strong command of various tools and technologies, including:
+
+- **Programming**: Proficient in Python, R, and SQL for data analysis and cleaning.
+- **Data Visualization**: Skilled in creating reports and dashboards using Power BI and Tableau.
+- **Statistical Analysis**: Capable of qualitative and quantitative data analysis.
+- **Healthcare Knowledge**: Well-versed in epidemiology, public health, biostatistics, and health informatics.
+
+## Professional Experience
+
+### Okanagan College Student Investment Fund
+
+- **Role**: Junior Analyst
+- **Responsibilities**:
+  - Assisted in running simulations and data collection.
+  - Conducted future projections and stock analysis.
+  - Calculated market-to-market ratios and value-at-risk assessments.
+
+### Health Data Analytics Capstone Project
+
+- **Role**: Data Analyst
+- **Responsibilities**:
+  - Analyzed a dataset from Interior Health to derive insights.
+  - Created reports and dashboards using R, Power BI, and Tableau.
+  - Collaborated effectively in a team setting.
+
+## Project Portfolio
+
+1. **Project Placeholder 1**
+   - [Link to Project 1](#)
+   - Brief description of the project and your role.
+   - Skills and tools used.
+
+2. **Project Placeholder 2**
+   - [Link to Project 2](#)
+   - [Similar structure]
+
+3. **Project Placeholder 3**
+   - [Link to Project 3](#)
+   - [Similar structure]
+
+## Areas of Interest
+
+- Data Analytics
+- Health Analytics
+- Cloud Computing
+- Machine Learning
+
+## Education and Training
+
+- Detail your education, focusing on your data science program.
+- Mention any certifications or special training relevant to data analytics.
+
+## Job Description Alignment
+
+I align well with the responsibilities of the Data Analyst role at Fraser Health, which includes data collection, synthesis, analysis, interpretation, and knowledge translation.
 
 ## Connect With Me
 
-The intersection of data analytics and healthcare is where I find my calling, and I am keen on collaborating with professionals who share a similar dedication to this transformative field. If my work resonates with you, or if you're interested in exploring potential collaborations, please reach out. Together, we can harness the power of data to pave the way for innovations in healthcare.
+The intersection of data analytics and healthcare is where I find my calling, and I am keen on collaborating with professionals who share a similar dedication to this transformative field. If my work resonates with you or if you're interested in exploring potential collaborations, please reach out. Together, we can harness the power of data to pave the way for innovations in healthcare.
 
 Thank you for visiting my page. I am excited about the opportunities ahead and the potential to contribute significantly to healthcare through the lens of data analytics.
 
+[Enhancing the Okanagan College Student Investment Fund](#)
+![Project 1 Image](/assets/img/Rplot.png)
 
-
-[Enhancing the Okanagan College Student Investment Fund](./another-page.html).
-<img src="/assets/img/Rplot.png"/>
-
-
-
-[Bulding Machine Learning Algorithms for Predicting COVID-19](./assets/img/DSCI_401_Presentation.pdf).
-<img src="/assets/img/covid-proj.png"/>
+[Bulding Machine Learning Algorithms for Predicting COVID-19](#)
+![Project 2 Image](/assets/img/covid-proj.png)
 
 
 There should be whitespace between paragraphs.
