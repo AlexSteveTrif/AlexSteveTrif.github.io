@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-I'm a data science student with a background in chemistry and a strong foundation in mathematics and statistics. Currently specializing in healthcare analytics, I'm passionate about leveraging data to make informed decisions in the healthcare sector. My journey from a science enthusiast to a data analytics professional has equipped me with a unique blend of skills and knowledge.
+I'm a data science student with a background in chemistry and a strong foundation in mathematics and statistics. Currently specializing in healthcare analytics, I'm passionate about leveraging data to make informed decisions in the healthcare sector. My journey from a science enthusiast to a data analytics professional has equipped me with a unique blend of skills and knowledge. [Read more about how I transitioned to data analytics](why_data.md)
 
 ### Career Goals
 
