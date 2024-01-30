@@ -11,44 +11,38 @@ Phone: 250-878-3419
 Email: alextrif25@gmail.com  
 
 ## Objective
+Enthusiastic and analytical professional aiming to leverage extensive skills in mathematics, statistics, and programming to deliver insightful data analysis. Eager to contribute to diverse organizations by transforming complex data into coherent, impactful narratives. Passionate about coding and data visualization, viewing each project as a unique opportunity to create artful and meaningful analytical reports.
 
-Aspiring Data Analyst with a strong background in data science and health analytics. Seeking to leverage my expertise in statistical analysis, geospatial data processing, and data management to contribute to Fraser Health’s Population Health Observatory.
+## Technical Skills
+- **Programming Languages:** Advanced expertise in R, Python; proficient in SQL for database management and complex data queries.
+- **Data Visualization:** Skilled in creating dynamic, informative visualizations using Tableau and Power BI, adept at presenting complex data in an understandable format.
+- **Software Proficiency:** Extensive experience with Excel, including advanced functions and macros; competent in general computer troubleshooting and software optimization.
 
-## Skills & Abilities
+## Transferable Skills
+- **Analytical Thinking:** Solid background in chemistry and mathematics, enabling a unique analytical approach to data and problem-solving.
+- **Innovative Problem Solving:** Exceptional ability to analyze, interpret, and resolve intricate problems, deriving actionable insights from complex datasets.
 
-- **Data Analysis & Statistical Software:** Advanced proficiency in R, SAS, and Python, with experience in quantitative data analysis, statistical modeling, and predictive analytics.
-- **Geospatial Analysis:** Proficient in GIS software; skilled in cartography, spatial data analysis, and creating GIS maps using Python and VBScript coding.
-- **Data Management:** Strong background in data extraction, cleaning, and documentation. Familiar with SQL, database management, and data quality assurance.
-- **Communication & Knowledge Dissemination:** Effective at synthesizing complex data into accessible information for varied audiences, including technical reports and presentations.
+## Quantifiable Achievements
+- **Okanagan College Student Investment Fund:** Led the development of a stock price predictive model using principal component analysis. This tool significantly improved investment strategy, identifying key risk factors and informing financial decisions.
 
-## Experience
+## Professional Development
+- **Post-Baccalaureate Diploma in Health Analytics,** Okanagan College: Comprehensive coursework in epidemiology, public health, biostatistics, health informatics, and health sciences. Focused on data-driven approaches to transform healthcare delivery and promote system interoperability.
+- **Continuous Learning:** Regularly engage in workshops and seminars to stay updated with the latest trends in data science and analytics.
 
-### Digital Marketing Specialist, Independent Contractor (Apr 2023 - Present)
-- Designed and executed data-driven marketing strategies, leveraging analytics to optimize healthcare application engagement.
+## Personal Projects
+- **Financial Modeling:** Innovated a stock analysis tool for the Student Investment Fund, integrating advanced financial metrics for risk assessment and investment strategy enhancement.
+- **Gaming Industry Analysis:** Developed a complex web scraping program to analyze user reviews on the Steam platform. Performed extensive sentiment analysis, providing insights into gaming trends and player preferences.
 
-### Junior Analyst, Okanagan College Student Investment Fund (Jan 2023 - Present)
-- Played a key role in portfolio management by analyzing financial data and market trends to inform investment decisions.
+## Volunteer Work
+- **Analytical Skill Enhancement:** Leveraged my role at the Okanagan College Student Investment Fund to deepen my proficiency in R and Python, contributing significantly to the fund’s data analysis capabilities.
 
-### Medical Courier, MTS Logistics (Jan 2022 - Sept 2022)
-- Ensured timely and secure delivery of medical supplies, maintaining meticulous records for operational efficiency.
+## Interests and Hobbies
+- **Outdoor Enthusiast:** Avid skier and mountain biker, exploring diverse terrains and capturing the beauty of nature through drone photography.
+- **Digital Creativity:** Passionate about creating engaging social media content, combining skills in video editing and photography to produce visually appealing narratives.
 
-### QC Analyst, Factors Laboratories (Mar 2021 - Sept 2021)
-- Conducted detailed chemical analyses and quality control tests, contributing to the lab’s data integrity and compliance standards.
+## Languages
+- **Multilingual Capabilities:** Fluent in English and Romanian, conversational in Spanish. Utilize linguistic skills to engage with diverse communities and enhance cultural understanding.
 
-## Education
-
-- **Post-Baccalaureate Diploma in Health Analytics,** Okanagan College (Sept 2022 – May 2024)
-  - Focusing on courses in epidemiology, biostatistics, and health informatics.
-  - Engaged in projects involving public health data analysis and interpretation.
-- **B.Sc.,** University of British Columbia Okanagan (Sept 2016 – May 2019)
-  - Major in Biology with coursework in data analysis and research methodologies.
-- **Degree Associates,** Okanagan College (Sept 2014 - May 2015)
-  - Foundation in science and mathematics, with an emphasis on analytical skills.
-
-## Hobbies and Interests
-
-- Enthusiastic about outdoor activities like skiing and mountain biking.
-- Passion for drone photography, capturing and analyzing aerial data.
-- Dedicated to fitness and wellness, frequenting the gym regularly.
-
+## References
+References are available upon request. Professors and professional mentors ready to attest to my expertise in coding, data analytics, and problem-solving skills.
 
