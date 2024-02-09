@@ -4,13 +4,19 @@ layout: default
 
 # Welcome to My Data Analytics Portfolio
 
-## About Me
+## Introduction
 
-I'm a data science student with a background in chemistry and a strong foundation in mathematics and statistics. Currently specializing in healthcare analytics, I'm passionate about leveraging data to make informed decisions in the healthcare sector. My journey from a science enthusiast to a data analytics professional has equipped me with a unique blend of skills and knowledge. [Read more about how I transitioned to data analytics](why_data.md)
+Hello! I'm Alexander Trif, a passionate individual with a rich background in science, majoring in chemistry and minoring in mathematics and statistics at the University of British Columbia Okanagan. My journey into data analysis began during my undergraduate studies, where I was fascinated by the power of data in solving complex problems and driving decisions in the scientific and healthcare sectors. This fascination was further fueled by my hands-on experience as a Healthcare Information Systems Specialist, where I leveraged data to enhance healthcare delivery and operational efficiency. [Read more about how I transitioned to data analytics](why_data.md)
 
-### Career Goals
+### Career Objectives
 
-My primary goal is to secure a Junior Data Analyst position or internship where I can apply my analytical skills and contribute to data-driven decision-making. I'm open to opportunities in both the healthcare and business sectors, aiming to make a meaningful impact through data.
+**Short-term Goals:**
+- To secure a role as a Data Analyst where I can apply my analytical skills and knowledge of data tools (SQL, R, Python, Tableau, and PowerBI) to contribute to data-driven decision-making processes.
+- To expand my expertise in healthcare data analysis by working on projects that utilize large healthcare datasets to improve patient care and operational outcomes.
+
+**Long-term Goals:**
+- To evolve into a Senior Data Scientist role, leading projects that intersect data analysis with healthcare to innovate and improve healthcare services.
+- To contribute to the field of data analysis through research and development, aiming to publish findings that could influence policy or introduce new methodologies in data handling and analysis.
 
 ## Vision for Healthcare Analytics
 
@@ -29,28 +35,10 @@ I have a strong command of various tools and technologies, including:
 - **Statistical Analysis**: Capable of qualitative and quantitative data analysis.
 - **Healthcare Knowledge**: Well-versed in epidemiology, public health, biostatistics, and health informatics.
 
-## Professional Experience
-
-### Okanagan College Student Investment Fund
-
-- **Role**: Junior Analyst
-- **Responsibilities**:
-  - Assisted in running simulations and data collection.
-  - Conducted future projections and stock analysis.
-  - Calculated market-to-market ratios and value-at-risk assessments.
-
-### Health Data Analytics Capstone Project
-
-- **Role**: Data Analyst
-- **Responsibilities**:
-  - Analyzed a dataset from Interior Health to derive insights.
-  - Created reports and dashboards using R, Power BI, and Tableau.
-  - Collaborated effectively in a team setting.
-
 ## Project Portfolio
 
 1. **Project Placeholder 1**
-   - [Link to Project 1](#)
+   - [Link to Project 1](project_1.md)
    - Brief description of the project and your role.
    - Skills and tools used.
 
@@ -85,14 +73,10 @@ The intersection of data analytics and healthcare is where I find my calling, an
 Thank you for visiting my page. I am excited about the opportunities ahead and the potential to contribute significantly to healthcare through the lens of data analytics.
 
 [Enhancing the Okanagan College Student Investment Fund](#)
-![Project 1 Image](/assets/img/Rplot.png)
+![Project 1 Image]()
 
-[Bulding Machine Learning Algorithms for Predicting COVID-19](#)
+[Bulding Machine Learning Algorithms for Predicting COVID-19](DSCI_401_Presentation.pdf)
 ![Project 2 Image](/assets/img/covid-proj.png)
 
 
 
-
-```
-The final element.
-```
