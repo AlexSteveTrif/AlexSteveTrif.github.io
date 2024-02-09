@@ -52,7 +52,7 @@ This suite of skills and expertise positions me to effectively contribute to dat
 1. **[Scraping and Analyzing Steam Game Reviews](project_1.md)**
 
 - **Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Testing, Sentiment Analysis, Data Visualization, and Predictive Modeling.
-- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Tableau, and Git for version control.
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Beautiful Soup, Selenium), SQL, Tableau, and Git for version control.
 
 This concise overview encapsulates my project work and skill set, offering a snapshot into my capabilities as a data analyst in the gaming industry. For more detailed insights, please refer to the full project briefing.
 
@@ -64,31 +64,44 @@ This concise overview encapsulates my project work and skill set, offering a sna
 This concise summary underscores the specialized skills and tools utilized specifically for the COVID-19 outcome prediction project, highlighting my expertise in data analysis and machine learning within the context of healthcare data analytics.
  ![Project 2 Image](/assets/img/covid-proj.png)
 
-3. **Project Placeholder 3**
-   - [Link to Project 3](#)
-   - [Similar structure]
+3. **[Building a Dashboard to Analyze AirBnB Trends](project_3.md)**
+   - skills
+   - tools
+Brief Summary
 
 ## Areas of Interest
 
-- Data Analytics
-- Health Analytics
-- Cloud Computing
-- Machine Learning
+In alignment with the multifaceted responsibilities of the desired Data Analyst role, my areas of interest have been honed to address the critical needs of data-driven decision-making and strategic planning in healthcare settings. These interests include:
+
+- **Strategic Data Analysis for Healthcare**: Focused on delivering timely, relevant, and reliable data insights to inform planning and decision-making processes, particularly concerning population health, service utilization, and outcomes analysis.
+- **Comprehensive Data Interpretation**: Skilled in analyzing and interpreting data from key healthcare sources, including population, clinical, organizational, operational, and administrative datasets. Proficient in data linkage, conducting statistical analyses, and performing tests of significance to support internal and external customer requests.
+- **Health Services Planning Support**: Committed to reviewing and providing constructive feedback on health services plans and program planning documents, leveraging data to assist with resource allocation and planning assumptions.
+- **Information Systems Development**: Interested in contributing to the development of information support activities, offering suggestions for data development and future analytical projects to enhance healthcare delivery and operational efficiency.
+- **Collaborative Stakeholder Engagement**: Aiming to develop strong working relationships with a range of stakeholders, including program managers, directors, and senior executives, to support planning, managing, and evaluating healthcare services.
+- **Data and Analytics Advocacy**: Eager to respond to data and information requests across organizational levels, providing technical advice on the use of data resources and analytics tools, and fostering a data-informed culture within the healthcare sector.
+- **Inter-organizational Collaboration**: Keen on working with provincial, national, and health authority representatives on pivotal data and analytics projects, contributing to data analysis, interpretation, and reporting initiatives that support broader healthcare objectives.
+
 
 ## Education and Training
 
-- Detail your education, focusing on your data science program.
-- Mention any certifications or special training relevant to data analytics.
+My academic and professional training form the foundation of my expertise in data science and health analytics:
+
+- **Post-Baccalaureate Diploma in Health Analytics**, Okanagan College (Sept 2022 - May 2024): A specialized program focusing on the application of data analytics in the healthcare sector, covering statistical analysis, data management, and predictive modeling.
+- **B.Sc. in Science**, Major in Chemistry, Minor in Mathematics and Statistics, University of British Columbia Okanagan (Sept 2016 – May 2019): This program honed my analytical skills and provided me with a strong foundation in quantitative analysis.
+
 
 ## Job Description Alignment
 
-I align well with the responsibilities of the Data Analyst role at Fraser Health, which includes data collection, synthesis, analysis, interpretation, and knowledge translation.
+My background and skills align closely with the responsibilities of a Data Analyst. My experience includes:
 
-## Connect With Me
+- **Data Collection and Management**: Proficient in collecting, cleaning, and preparing large datasets for analysis, ensuring data integrity and usability.
+- **Data Synthesis and Analysis**: Experienced in applying statistical methods and machine learning models to synthesize data from diverse sources, extracting actionable insights.
+- **Interpretation and Knowledge Translation**: Capable of interpreting complex analytical results, translating them into understandable and actionable knowledge for non-technical stakeholders.
+- **Strategic Decision Support**: My work supports strategic decision-making by providing evidence-based insights, particularly in healthcare settings, to improve service delivery and patient care.
 
-The intersection of data analytics and healthcare is where I find my calling, and I am keen on collaborating with professionals who share a similar dedication to this transformative field. If my work resonates with you or if you're interested in exploring potential collaborations, please reach out. Together, we can harness the power of data to pave the way for innovations in healthcare.
+My commitment to leveraging data analytics and machine learning within healthcare to drive improvements in service delivery and patient outcomes makes me a strong candidate for a role focused on making a significant impact through data.
 
-Thank you for visiting my page. I am excited about the opportunities ahead and the potential to contribute significantly to healthcare through the lens of data analytics.
+
 
 [Enhancing the Okanagan College Student Investment Fund](#)
 ![Project 1 Image]()
