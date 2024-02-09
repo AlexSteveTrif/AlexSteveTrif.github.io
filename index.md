@@ -51,8 +51,8 @@ This suite of skills and expertise positions me to effectively contribute to dat
 
 1. **[Scraping and Analyzing Steam Game Reviews](project_1.md)**
 
-- **Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Testing, Sentiment Analysis, Data Visualization, and Predictive Modeling.
-- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Beautiful Soup, Selenium), SQL, Tableau, and Git for version control.
+- **Skills:** Web-Scraping, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Testing, Sentiment Analysis, Data Visualization, and Predictive Modeling.
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Beautiful Soup, Selenium), SQL, Tableau, and Git for version control.
 
 This concise overview encapsulates my project work and skill set, offering a snapshot into my capabilities as a data analyst in the gaming industry. For more detailed insights, please refer to the full project briefing.
 
@@ -101,10 +101,6 @@ My background and skills align closely with the responsibilities of a Data Analy
 
 My commitment to leveraging data analytics and machine learning within healthcare to drive improvements in service delivery and patient outcomes makes me a strong candidate for a role focused on making a significant impact through data.
 
-
-
-[Enhancing the Okanagan College Student Investment Fund](#)
-![Project 1 Image]()
 
 
 
