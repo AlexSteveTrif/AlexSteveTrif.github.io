@@ -43,8 +43,8 @@ I have a strong command of various tools and technologies, including:
    - Skills and tools used.
 
 2. **Project Placeholder 2**
-   - [Link to Project 2](#)
-   - [Similar structure]
+- [Bulding Machine Learning Algorithms for Predicting COVID-19](/assets/DSCI_401_Presentation.pdf)
+- ![Project 2 Image](/assets/img/covid-proj.png)
 
 3. **Project Placeholder 3**
    - [Link to Project 3](#)
@@ -75,8 +75,7 @@ Thank you for visiting my page. I am excited about the opportunities ahead and t
 [Enhancing the Okanagan College Student Investment Fund](#)
 ![Project 1 Image]()
 
-[Bulding Machine Learning Algorithms for Predicting COVID-19](DSCI_401_Presentation.pdf)
-![Project 2 Image](/assets/img/covid-proj.png)
+
 
 
 
