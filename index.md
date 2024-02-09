@@ -49,14 +49,20 @@ This suite of skills and expertise positions me to effectively contribute to dat
 
 ## Project Portfolio
 
-1. **Project Placeholder 1**
-   - [Link to Project 1](project_1.md)
-   - Brief description of the project and your role.
-   - Skills and tools used.
+1. **[Scraping and Analyzing Steam Game Reviews](project_1.md)**
 
-2. **Project Placeholder 2**
-- [Bulding Machine Learning Algorithms for Predicting COVID-19](/assets/DSCI_401_Presentation.pdf)
-- ![Project 2 Image](/assets/img/covid-proj.png)
+- **Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Testing, Sentiment Analysis, Data Visualization, and Predictive Modeling.
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Tableau, and Git for version control.
+
+This concise overview encapsulates my project work and skill set, offering a snapshot into my capabilities as a data analyst in the gaming industry. For more detailed insights, please refer to the full project briefing.
+
+2. **[Bulding Machine Learning Algorithms for Predicting COVID-19](project_2.md)**
+   
+- **Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Predictive Modeling, Feature Importance Evaluation, Statistical Analysis, Machine Learning Algorithm Tuning.
+- **Tools:** R (dplyr, ggplot2, caret), Python (Pandas, Scikit-learn), Algorithms (Logistic Regression, KNN, Decision Trees, Random Forest, SVM, XGBoost).
+
+This concise summary underscores the specialized skills and tools utilized specifically for the COVID-19 outcome prediction project, highlighting my expertise in data analysis and machine learning within the context of healthcare data analytics.
+ ![Project 2 Image](/assets/img/covid-proj.png)
 
 3. **Project Placeholder 3**
    - [Link to Project 3](#)
@@ -86,7 +92,6 @@ Thank you for visiting my page. I am excited about the opportunities ahead and t
 
 [Enhancing the Okanagan College Student Investment Fund](#)
 ![Project 1 Image]()
-
 
 
 
